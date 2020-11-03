@@ -13,7 +13,12 @@
     "target": "es2015",
     "lib": [
       "es2018",
-      "dom"
+      "dom",
+      "scripthost"
+    ],
+    "typeRoots": [
+      "./src/types",
+      "./node_modules/phaser/types",
     ]
   },
   "angularCompilerOptions": {

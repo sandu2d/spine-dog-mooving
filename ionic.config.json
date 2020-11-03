@@ -1,5 +1,7 @@
 {
   "name": "spine-dog-mooving",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
